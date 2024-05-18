@@ -1,0 +1,6 @@
+CC := gcc
+OBJ_FOLDER := obj
+EXECUTEABLE_FOLDER := bin
+PREPROCESSING_FOLDER := pre_data
+PORJECT_FOLDER := project_name
+SKIP_FLAG := Y
