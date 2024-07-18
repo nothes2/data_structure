@@ -10,7 +10,7 @@ int peek(Stack* s);
 int pop(Stack* s);
 int push(Stack* s,int data);
 
-Stack* createStack()
+Stack* createStack()    
 {
     Stack* s = (Stack*)malloc(sizeof(Stack));
     s->top = -1;

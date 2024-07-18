@@ -2,7 +2,6 @@
 #include "stdio.h"
 
 /**
- * 
  * @headerfile linkedlist.h
 */
 
@@ -38,4 +37,7 @@ int appened(LinkedList* list, void* data) {
 
 }
 
-
+int getData(LinkedList *LinkedList, int index)
+{
+    return 0;
+}
